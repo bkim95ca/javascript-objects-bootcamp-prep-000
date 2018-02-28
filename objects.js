@@ -6,4 +6,4 @@ var meals = {
 
 meals.breakfast = ["oatmeal", "banana"];
 
-meals;
+console.log(meals)
