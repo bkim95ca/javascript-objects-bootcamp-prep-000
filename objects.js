@@ -1,8 +1,8 @@
 const firstMeal = 'lunch'
 var meals = {
-  breakfast: 'avocado',
-  lunch: 'sandwich',
-  dinner: 'pasta'
+  breakfast: 'oatmeal',
+  lunch: 'burrito',
+  dinner: 'steal'
 }
 
 console.log(meals[firstMeal])
