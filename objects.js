@@ -5,6 +5,6 @@ var meals = {
   dinner: 'steak'
 }
 
-meals.snack
+meals.snack = 'yogurt'
 
 console.log(meals[firstMeal])
