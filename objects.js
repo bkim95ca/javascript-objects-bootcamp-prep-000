@@ -19,3 +19,5 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
 
 
 const recipe = { eggs: 3 }
+
+destructivelyUpdateObjectWithKeyAndValue(recipe, 'flour', '3 cups')
