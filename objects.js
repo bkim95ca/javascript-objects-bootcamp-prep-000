@@ -1,5 +1,7 @@
-var meals = { breakfast: "oatmeal", lunch: "turkey sandwich", dinner: "steak and potatoes"};
+var meals = {
+  breakfast: "oatmeal",
+  lunch: "turkey sandwich",
+  dinner: "steak and potatoes"
+};
 
-delete meals.dinner;
-
-console.log(meals)
+meals.breakfast = ["oatmeal", "banana"]
