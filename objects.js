@@ -1,6 +1,5 @@
 const firstMeal = 'lunch'
-var sweetMeal = 'dessert'
-meals[sweetMeal] = 'cake';
+
 var meals = {
   breakfast: 'oatmeal',
   lunch: 'burrito',
