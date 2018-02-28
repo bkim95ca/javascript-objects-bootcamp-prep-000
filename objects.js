@@ -9,4 +9,4 @@ var meals = {
 meals['second breakfast'] = 'bagel';
 meals.breakfast = 'cereal'
 
-console.log(meals['breakfast']) /*
+console.log(meals['breakfast']) */
