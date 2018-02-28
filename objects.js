@@ -10,3 +10,9 @@ meals['second breakfast'] = 'bagel';
 meals.breakfast = 'cereal'
 
 console.log(meals['breakfast']) */
+
+function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
+  obj[key] = value
+
+  return obj
+}
