@@ -1,3 +1,4 @@
+const firstMeal = 'breakfast'
 var meals = {
   breakfast: 'avocado',
   lunch: 'sandwich',
