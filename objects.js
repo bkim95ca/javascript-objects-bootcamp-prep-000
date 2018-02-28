@@ -4,4 +4,6 @@ var meals = {
   dinner: "steak and potatoes"
 };
 
-meals.breakfast = ["oatmeal", "banana"]
+meals.breakfast = ["oatmeal", "banana"];
+
+meals;
