@@ -5,4 +5,4 @@ var meals = {
   dinner: 'pasta'
 }
 
-console.log(meals['firstMeal'])
+console.log(meals[firstMeal])
