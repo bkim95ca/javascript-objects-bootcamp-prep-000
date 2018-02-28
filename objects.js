@@ -1,6 +1,6 @@
 const firstMeal = 'lunch'
 var sweetMeal = 'dessert'
-meals[sweetMeal] = 'cake;'
+meals[sweetMeal] = 'cake';
 var meals = {
   breakfast: 'oatmeal',
   lunch: 'burrito',
@@ -9,4 +9,4 @@ var meals = {
 
 meals['second breakfast'] = 'bagel';
 
-console.log(meals['second breakfast'])
+console.log(meals['dessert'])
