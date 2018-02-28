@@ -10,4 +10,4 @@ var meals = {
 meals['second breakfast'] = 'bagel';
 meals.breakfast = 'cereal'
 
-console.log(meals.dessert)
+console.log(meals.breakfast)
