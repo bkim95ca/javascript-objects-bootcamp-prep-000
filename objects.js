@@ -9,6 +9,6 @@ function updateObjectWithObject(targetObject, updatesObject) {
 
 const recipe = { eggs: 3 }
 
-updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
+updateObjectWithObject(recipe, 'chocolate', '1 cup')
 
 console.log(recipe)
