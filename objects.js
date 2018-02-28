@@ -9,5 +9,6 @@ var meals = {
 
 meals['second breakfast'] = 'bagel';
 meals.dessert
+meals[sweetMeal]
 
 console.log(meals['dessert'])
