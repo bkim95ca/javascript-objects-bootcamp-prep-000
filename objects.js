@@ -5,6 +5,6 @@ var meals = {
   dinner: 'steak'
 }
 
-meals.snack = 'yogurt'
+meals.snack = 'yogurt';
 
-console.log(meals[firstMeal])
+console.log(meals.snack)
