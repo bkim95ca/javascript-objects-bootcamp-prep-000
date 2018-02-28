@@ -5,6 +5,6 @@ var meals = {
   dinner: 'steak'
 }
 
-meals['second breakfat'] = 'yogurt';
+meals['second breakfast'] = 'bagel';
 
 console.log(meals.snack)
