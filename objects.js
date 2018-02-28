@@ -12,3 +12,5 @@ meals.breakfast = 'cereal'
 console.log(meals['breakfast']) */
 
 Object.assign({}, { foo: 'bar'})
+
+Object.assign({ eggs: 3 }, { flour: '1 cup' })
