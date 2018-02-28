@@ -1,4 +1,4 @@
 var playlist = {
   artistName: "songTitle"
 }
-updatePlaylist(playlist, 'artistName', )
+updatePlaylist(playlist, 'artistName', "songTitle"_
