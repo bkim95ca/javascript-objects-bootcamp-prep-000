@@ -6,4 +6,4 @@ var meals = {
 
 Object.assign({}, meals, { breakfast: ['oatmeal', 'banana'] })
 
-console.log('breakfast')
+console.log('object')
