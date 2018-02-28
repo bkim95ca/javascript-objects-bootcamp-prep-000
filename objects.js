@@ -7,4 +7,4 @@ var meals = {
 
 meals['second breakfast'] = 'bagel';
 
-console.log(meals[firstMeal])
+console.log(meals['second breakfast'])
