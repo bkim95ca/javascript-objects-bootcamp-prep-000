@@ -5,3 +5,5 @@ var playlist = {
 function updateObjectWithObject(targetObject, updatesObject) {
   return Object.assign({}, targetObject, updatesObject)
 }
+
+const playlist = { artistName: "songTitle"}
