@@ -8,5 +8,6 @@ var meals = {
 }
 
 meals['second breakfast'] = 'bagel';
+meals.dessert
 
 console.log(meals['dessert'])
