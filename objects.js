@@ -7,3 +7,5 @@ function updateObjectWithObject(targetObject, updatesObject) {
 }
 
 const playlist = { artistName: "songTitle"}
+
+updatePlaylist(playlist)
