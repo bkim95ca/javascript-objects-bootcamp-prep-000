@@ -14,5 +14,3 @@ function removeFromPlaylist(playlist, artistName) {
 
   return playlist
 }
-
-removeFromPlaylist("Gold Digger")
