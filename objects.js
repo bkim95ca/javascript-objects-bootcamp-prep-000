@@ -9,4 +9,8 @@ function updatePlaylist(playlist, artistName, songTitle) {
 updatePlaylist('Phil Ochs', "Here's to the state of Mississippi")
 
 
-function removeFromPlaylist()
+function removeFromPlaylist(playlist, artistName) {
+  return Object.assign({}, playlist, {'artistName'})
+}
+
+removeFromPlaylist("Gold Digger")
