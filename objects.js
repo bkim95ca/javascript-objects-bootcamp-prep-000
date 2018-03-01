@@ -10,7 +10,7 @@ return playlist
 }
 
 function removeFromPlaylist(playlist, artistName) {
-  delete playlist['Kanye']
+  delete playlist[artistName]
 
   return playlist
 }
